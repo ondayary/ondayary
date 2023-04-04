@@ -3,10 +3,10 @@
   ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi&nbsp;there,&nbsp;I'm&nbsp;daon!👋&fontSize=50&fontAlignY=40)
   
   <br>
-  <h4 align="center">
+  <h3 align="center">
     I'm studying because I want to be a backend developer.<br>
     I want to develop all the beautiful things.
-  </h4>
+  </h3>
 
   <br><br>
   
