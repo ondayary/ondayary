@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Docker-DB3552?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS EC2-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white">
   </div>
 
   <h4 align="center">FrontEnd</h4>
