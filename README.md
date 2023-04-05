@@ -31,9 +31,10 @@
   <h4 align="center">DevOps</h4>
   <div align="center">
     <img src="https://img.shields.io/badge/Docker-DB3552?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
     <img src="https://img.shields.io/badge/aws-333664?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/AWS EC2-232f3e?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/GitLab-333664?style=for-the-badge&logo=gitlab&logoColor=white">
+    
   </div>
 
   <h4 align="center">FrontEnd</h4>
@@ -106,7 +107,7 @@ Mac                      24 mins             ███████████�
 
 <br>  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer)
 
 <!--
 **ondayary/ondayary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
