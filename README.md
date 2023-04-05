@@ -66,7 +66,7 @@
   ![ondayary's github stats](https://github-readme-stats.vercel.app/api?username=ondayary&show_icons=true)
 
   
-  <br>
+<br><br>
   
   
 <!--START_SECTION:waka-->
@@ -104,7 +104,7 @@ Mac                      24 mins             ███████████�
  Last Updated on 04/04/2023 18:34:42 UTC
 <!--END_SECTION:waka-->
 
-  
+<br>  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
