@@ -93,20 +93,17 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Groovy                   5 mins              ██████████████████████░░░   86.03 % 
-Shell Script             0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 
- Last Updated on 15/07/2024 18:39:12 UTC
+ Last Updated on 16/07/2024 18:39:08 UTC
 <!--END_SECTION:waka-->
 
 <h5 align="center">My Git View Count</h5>
